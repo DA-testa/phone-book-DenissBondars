@@ -1,7 +1,7 @@
 # python3
 
-n = int(input())
 phbook = {}
+n = int(input())
 
 for i in range(n):
     
